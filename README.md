@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaNadia
-- 👀 I’m interested in coding, languages, beaty :)
+- 👀 I’m interested in coding and languages :)
 - 🌱 I’m currently learning html/css, JS
 - 💞️ I’m looking to collaborate on different projects where i can be a front-end developer.
 - 📫 How to reach me: estelhawke@gmail.com
