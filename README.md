@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaNadia
 - 👀 I’m interested in coding and languages :)
-- 🌱 I’m currently learning html/css, JS
+- 🌱 I’m currently learning html/css, JS, React
 - 💞️ I’m looking forward to collaborate on different projects where we can create amazing web-pages!
 - 📫 How to reach me: estelhawke@gmail.com
 
